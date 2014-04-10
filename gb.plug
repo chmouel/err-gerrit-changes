@@ -1,0 +1,9 @@
+[Core]
+Name = GerritBot
+Module = gb
+
+[Documentation]
+Description = Monitor gerrits reviews post.
+
+[Python]
+Version=3+
